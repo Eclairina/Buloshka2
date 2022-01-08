@@ -1,0 +1,45 @@
+.header-container {
+    display: flex;
+    height: 100px;
+    padding: 20px;
+    background-color:rgb(255, 255, 255);display: flex;
+    
+    justify-content: flex-end;
+}
+.header-counter {
+    margin-left: auto;
+    font-family: CANDARA;
+    padding-right: 10px;
+    font-weight: bold;font-size: 20px;
+    
+    
+}
+.header-counter1 {
+    margin-left: auto;
+    font-family: CANDARA;
+    padding-right: 10px;
+    font-weight: bold;font-size: 20px;
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+.header-naz {
+    font-family: CANDARA;
+    margin:auto;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.header-naz:hover {
+    text-shadow:3px -2px 7px rgb(56, 36, 30); 
+    font-size: 30px;
+    
+    
+}
+#header{
+    
+    z-index:10;
+    margin: 0px;
+    
+}
